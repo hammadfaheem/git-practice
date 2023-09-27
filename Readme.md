@@ -6,3 +6,4 @@
 - Sentence 4
 - Sentence 5
 - Sentence 6
+- Sentence 7
